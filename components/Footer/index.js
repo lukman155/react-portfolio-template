@@ -8,10 +8,10 @@ const Footer = ({}) => {
   const magicLine = {
     backgroundImage: 'linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%)',
     backgroundRepeat: 'no-repeat',
-    backgroundSize: '20% 9px',
+    backgroundSize: '15% 9px',
     backgroundPosition: '20px 80%',
   }
-  
+
   return (
     <>
       <div className="mt-5 laptop:mt-40 p-2 laptop:p-0">
